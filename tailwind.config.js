@@ -5,6 +5,9 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
+    fontFamily:{
+      istok:['Istok Web'],
+    },
     extend: {
       screens:{
         lmd:{'min':'430px','max':'767px'},

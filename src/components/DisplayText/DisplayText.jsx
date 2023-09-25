@@ -5,8 +5,12 @@ const DisplayText = () => {
         Centro Espírita Amigos de Chico
       </h1>
       <p className="text-[15px] text-white">
-        Texto introdutório coisas escritas, algumas várias coisas escritas para
-        tornar o dia um pouco melhor hihi huhu bora escrever mais um pouquinho
+        Seja muito bem-vindo ao Centro Espírita Amigos de chico, um oásis de luz
+        espiritual situado em Natal, Rio Grande do Norte. Aqui, dedicamo-nos à
+        exploração das verdades espirituais e ao entendimento do vasto mundo
+        espiritual que nos cerca. É com grande alegria que compartilhamos essa
+        jornada com você, buscando juntos o crescimento espiritual e o
+        conhecimento profundo das filosofias que norteiam o espiritismo.
       </p>
     </div>
   );
